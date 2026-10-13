@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Wassim%20Moussaif&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20MLOps%20Engineer%20%7C%20Casablanca%2C%20Morocco&descAlignY=60&descSize=18" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Wassim%20Moussaif&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20MLOps%20Engineer%20%7C%20Casablanca%2C%20Morocco&descAlignY=60&descSize=18"  />
 
 <a href="https://github.com/wassim-moussaif">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+production-grade+AI+systems;Docker+%C2%B7+Kubernetes+%C2%B7+MLflow+%C2%B7+FastAPI;Insider-threat+detection+with+ML;Looking+for+a+6-month+MLOps+internship+(PFE)" alt="Typing animation" />
