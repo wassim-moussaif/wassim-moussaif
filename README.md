@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wassim-moussaif)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moussaifwassim52@gmail.com)
-[![Profile Views](https://img.shields.io/github/views/wassim-moussaif/wassim-moussaif?style=for-the-badge&color=0e75b6&logo=github)](https://github.com/wassim-moussaif)
+![GitHub Views](https://gitviews.com/user/remvze.svg?style=for-the-badge&color=white)
 
 </div>
 
