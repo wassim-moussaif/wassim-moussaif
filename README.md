@@ -1,6 +1,6 @@
 <div align="center">
 
-![Wassim Moussaif](https://shieldcn.dev/header/transparent.svg?title=Wassim+Moussaif&logo=ri%3AFa500Px&mode=dark&theme=zinc)
+
 
 <a href="https://github.com/wassim-moussaif">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+production-grade+AI+systems;Docker+%C2%B7+Kubernetes+%C2%B7+MLflow+%C2%B7+FastAPI;Insider-threat+detection+with+ML;Looking+for+a+6-month+MLOps+internship+(PFE)" alt="Typing animation" />
